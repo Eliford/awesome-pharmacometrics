@@ -33,6 +33,8 @@ a currated list of pharmacometrics material
 # resources
 
 ## tutorials
+*[American College of Clinical Pharmacology](http://accp1.org/pharmacometrics/modeling.htm)
+*[Biopharmaceutics and Pharmacokineticss](http://www.boomer.org/c/p1/; http://www.boomer.org/c/p4/index.php?Loc=Visitor; http://www.boomer.org/c/p4/index.php?Loc=OUHSC33; http://www.boomer.org/c/p4/index.php?Loc=Advance)
 
 ## blogs
 #### personalblogs
@@ -68,7 +70,7 @@ a currated list of pharmacometrics material
 #### newzealand
 
 #### africa
-
+*[University of Cape Town] (http://www.clinpharm.uct.ac.za/pharmacometrics)
 #### asia
 
 #### southam
