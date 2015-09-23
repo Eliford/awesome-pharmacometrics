@@ -48,6 +48,9 @@ a currated list of pharmacometrics material
 
 ## blogs
 
+* [Learn PKPD](http://learnpkpd.com/)
+
+
 #### personalblogs
 
 #### commercialblogs
