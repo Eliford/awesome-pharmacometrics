@@ -35,7 +35,6 @@ a currated list of pharmacometrics material
 # resources
 
 ## journals-conferences
-
 #### clinical
 
 #### methodology
@@ -47,11 +46,9 @@ a currated list of pharmacometrics material
 ## tutorials
 
 ## blogs
+#### personalblogs
 
 * [Learn PKPD](http://learnpkpd.com/)
-
-
-#### personalblogs
 
 #### commercialblogs
 
