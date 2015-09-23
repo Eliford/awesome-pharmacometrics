@@ -2,22 +2,7 @@
 a currated list of pharmacometrics material
 
 
-- [Universities](#universities)
-	- [europe](#europe)
-		1. [Uppsala Unviersitet](http://www.farmbio.uu.se/research/researchgroups/pharmacometrics/)
-		2. [INSERM - UNIVERSITY PARIS DIDEROT](http://www.biostat.fr/)
-		3. [Pharmacometrics Program at Freie Universitat Berlin - PharMetrX](https://www.pharmetrx.de/)
-	- [northam](#northam)
-	- [australia](#australia)
-	- [new zealand](#newzealand)
-	- [africa](#africa)
-	- [asia](#asia)
-	- [south america](#southam)
-- [journals/conferences](#journals-conferences)
-	- [clinical](#clinical)
-	- [methodology](#methodology)
-	- [drugdev](#drugdev)
-	- [statistics](#statistics)
+
 - [tutorials](#tutorials)
 - [blogs](#blogs)
 	- [personalblogs](#personalblogs)
@@ -29,19 +14,23 @@ a currated list of pharmacometrics material
 	- [stats](#stats)
 	- [softwareeng](#softwareeng)
 	- [programming_books](#programming_books)
+- [Universities](#universities)
+	- [europe](#europe)
+	- [northam](#northam)
+	- [australia](#australia)
+	- [new zealand](#newzealand)
+	- [africa](#africa)
+	- [asia](#asia)
+	- [south america](#southam)
+- [journals/conferences](#journals-conferences)
+	- [clinical](#clinical)
+	- [methodology](#methodology)
+	- [drugdev](#drugdev)
+	- [statistics](#statistics)
 
 ---
 
 # resources
-
-## journals-conferences
-#### clinical
-
-#### methodology
-
-#### drugdev
-
-#### statistics
 
 ## tutorials
 
@@ -65,3 +54,32 @@ a currated list of pharmacometrics material
 #### software-engineering
 
 #### programming
+
+## universities
+#### europe
+* [Uppsala Unviersitet](http://www.farmbio.uu.se/research/researchgroups/pharmacometrics/)
+* [INSERM - UNIVERSITY PARIS DIDEROT](http://www.biostat.fr/)
+* [Pharmacometrics Program at Freie Universitat Berlin - PharMetrX](https://www.pharmetrx.de/)
+
+#### northam
+
+#### australia
+
+#### newzealand
+
+#### africa
+
+#### asia
+
+#### southam
+
+
+## journals-conferences
+#### clinical
+
+#### methodology
+
+#### drugdev
+
+#### statistics
+
