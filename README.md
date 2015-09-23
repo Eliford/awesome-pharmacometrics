@@ -4,6 +4,9 @@ a currated list of pharmacometrics material
 
 - [Universities](#universities)
 	- [europe](#europe)
+	1. [Uppsala Unviersitet](http://www.farmbio.uu.se/research/researchgroups/pharmacometrics/)
+	2. [INSERM - UNIVERSITY PARIS DIDEROT](http://www.biostat.fr/)
+	3. [Pharmacometrics Program at Freie Universitat Berlin - PharMetrX](https://www.pharmetrx.de/)
 	- [northam](#northam)
 	- [australia](#australia)
 	- [new zealand](#newzealand)
